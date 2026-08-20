@@ -1,4 +1,4 @@
-# 🧬 Bioinformatics Pipeline 3.4 — 18S rRNA Phylogenetic Workflow
+# 🧬 Bioinformatics Pipeline  — 18S rRNA Phylogenetic Workflow
 
 A reproducible command-line workflow for **18S rRNA sequence curation, multiple sequence alignment, alignment trimming, evolutionary model selection, and Maximum-Likelihood phylogenetic inference**.
 
